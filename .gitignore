@@ -1,3 +1,6 @@
+LICENSE.chromedriver
+chromedriver.exe
+__pycache__/
 aienv/
 .venv/
 .DS_Store
