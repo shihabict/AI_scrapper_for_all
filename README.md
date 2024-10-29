@@ -1,0 +1,1 @@
+# AI_scrapper_for_all
