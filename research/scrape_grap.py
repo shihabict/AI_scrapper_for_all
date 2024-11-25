@@ -19,13 +19,13 @@ graph_config = {
 
 # Create the SmartScraperGraph instance and run it
 smart_scraper_graph = SmartScraperGraph(
-   prompt="List me all the product and their price.",
-   # prompt="List me all the branches and office name and country with their address and phone numbers, contact emails if available.",
+   # prompt="List me all the product and their price.",
+   prompt="List me all the branches and office name and country with their address and phone numbers, contact emails if available.",
    # prompt="You are an expert content summarizer.You take organization about page content and prepare a short summary about the company. Combine all of your understanding of the content, and Prepare a brief summary about the company and do not hallucinate too much",
    # source can also accept a string with the already downloaded HTML code
-   # source="https://brainstation-23.com/contact/",
-   # source="https://brainstation-23.com/about/",
-   source="https://leilo.com/collections/cans",
+   source="https://brainstation-23.com/contact/",
+   # source="https://www.kikcorp.com/contact-us/",
+   # source="https://reasonclothing.com/collections/lil-wayne",
    config=graph_config
 )
 

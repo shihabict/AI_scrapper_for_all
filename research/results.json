@@ -1,10 +1,46 @@
 {
-    "Leilo Sampler (6-Pack)": "$29.99",
-    "Sunset Variety (12-pack)": "$49.99",
-    "Pina Colada (Leilo Lite), Sugar Free (12-Pack)": "$49.99",
-    "Lemon Ginger (12-Pack)": "$49.99",
-    "Tango Berry (12-Pack)": "$49.99",
-    "Raspberry Hibiscus (12-Pack)": "$49.99",
-    "Blackberry Orange (12-Pack)": "$49.99",
-    "Luna Sleep (12-Pack)": "$49.99"
+    "branches": [
+        {
+            "office_name": "Brain Station 23 Inc.",
+            "country": "USA",
+            "address": "7426 Alban Station Blvd, Suite A101, Springfield,VA 22150",
+            "phone": "+1 (571) 438-2169",
+            "contact_email": null
+        },
+        {
+            "office_name": "Brain Station 23 LLC",
+            "country": "UAE",
+            "address": "903, 9th Floor, DAMAC XL Tower, Business Bay, Dubai, UAE.PO BOX-29544",
+            "phone": "+971 42420223",
+            "contact_email": null
+        },
+        {
+            "office_name": "Brain Station 23 SDN.BHD",
+            "country": "MALAYSIA",
+            "address": "Level 9, Integra Tower, The Intermark, No. 348, Jalan Tun Razak, 50400 Kuala Lumpur, Malaysia",
+            "phone": "+60124746605",
+            "contact_email": null
+        },
+        {
+            "office_name": "Brain Station 51",
+            "country": "GERMANY",
+            "address": "Rebhuhnweg 4, 26160 Bad Zwischenahn",
+            "phone": "+4944036999839",
+            "contact_email": "sales@brainstation-51.com"
+        },
+        {
+            "office_name": "Brain Station 23 PLC.",
+            "country": "BANGLADESH",
+            "address": "8th Floor, 2 Bir Uttam AK Khandakar Road, Mohakhali C/A,Dhaka 1212, Bangladesh",
+            "phone": "+88-02-222290728",
+            "contact_email": "sales@brainstation-23.com"
+        },
+        {
+            "office_name": "Brain Station 23",
+            "country": "NETHERLANDS",
+            "address": "Sparrenheuvel 2 3708 JE Zeist The Netherlands",
+            "phone": "+31622939203",
+            "contact_email": "nl@brainstation-23.com"
+        }
+    ]
 }
