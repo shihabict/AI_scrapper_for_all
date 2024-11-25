@@ -9,9 +9,6 @@ def scrape_url(web_url):
     options.add_argument('--headless')
     # service = Service(chrome_driver_path)
     driver = webdriver.Chrome(options=options)
-
-    
-
     try:
         driver.get(web_url)
         # get the page source

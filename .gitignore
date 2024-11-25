@@ -5,5 +5,7 @@ aienv/
 .venv/
 .DS_Store
 .env
+.idea/
 .vscode/
 driver/*
+test.py
